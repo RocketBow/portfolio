@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://rocketbow.github.io/portfolio/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://rocketbow.github.io/portfolio/</loc>
+</url>
+<url>
+<loc>https://rocketbow.github.io/portfolio/2d-animation.html</loc>
+<lastmod>2026-03-09T00:11:00-04:00</lastmod>
+<image:image>
+<image:loc>https://rocketbow.github.io/portfolio/media/posts/3/ToonBoom.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://rocketbow.github.io/portfolio/media/posts/3//gallery/BallHopFINAL.gif</image:loc>
+<image:title><![CDATA[Ball Hop and Characterization]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://rocketbow.github.io/portfolio/media/posts/3//gallery/PantherFINAL.gif</image:loc>
+<image:title><![CDATA[Pink Panther Walk]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://rocketbow.github.io/portfolio/media/posts/3//gallery/StanleySpin.gif</image:loc>
+<image:title><![CDATA[Character Bust Rotation]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://rocketbow.github.io/portfolio/media/posts/3/gallery/PuppetRun.gif</image:loc>
+<image:title><![CDATA[Puppet Run]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://rocketbow.github.io/portfolio/3d-modelling.html</loc>
+<lastmod>2026-03-03T18:47:29-05:00</lastmod>
+</url>
+<url>
+<loc>https://rocketbow.github.io/portfolio/lily-wing-portfolio.html</loc>
+<lastmod>2026-03-02T21:43:48-05:00</lastmod>
+<image:image>
+<image:loc>https://rocketbow.github.io/portfolio/media/posts/1/LogoBounce_fitted_v1.gif</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>

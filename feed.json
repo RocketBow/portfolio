@@ -1,0 +1,54 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Lily Wing Portfolio",
+    "description": "",
+    "home_page_url": "https://rocketbow.github.io/portfolio",
+    "feed_url": "https://rocketbow.github.io/portfolio/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Lily Wing"
+    },
+    "items": [
+        {
+            "id": "https://rocketbow.github.io/portfolio/3d-modelling.html",
+            "url": "https://rocketbow.github.io/portfolio/3d-modelling.html",
+            "title": "3D Modelling",
+            "author": {
+                "name": "Lily Wing"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-03-03T18:47:29-05:00",
+            "date_modified": "2026-03-03T18:47:29-05:00"
+        },
+        {
+            "id": "https://rocketbow.github.io/portfolio/2d-animation.html",
+            "url": "https://rocketbow.github.io/portfolio/2d-animation.html",
+            "title": "2D Animation",
+            "summary": "Program Used: Toon Boom Harmony Tradigital Fundamentals: Ball Hop and Characterization Pink Panther Walk Character Bust Rotation _____________________________________________________________ 2D Puppet Fundamentals: Puppet Run",
+            "content_html": "<figure class=\"post__image\">Program Used:<br>Toon Boom Harmony<br><img loading=\"lazy\"  src=\"https://rocketbow.github.io/portfolio/media/posts/3/ToonBoom.png\" alt=\"\" width=\"100\" height=\"79\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://rocketbow.github.io/portfolio/media/posts/3/responsive/ToonBoom-xs.png 300w ,https://rocketbow.github.io/portfolio/media/posts/3/responsive/ToonBoom-sm.png 480w ,https://rocketbow.github.io/portfolio/media/posts/3/responsive/ToonBoom-md.png 768w ,https://rocketbow.github.io/portfolio/media/posts/3/responsive/ToonBoom-lg.png 1024w\"></figure>\n<h2><span style=\"text-decoration: underline;\">Tradigital Fundamentals: </span></h2>\n<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"1\">\n<figure class=\"gallery__item\"><a href=\"https://rocketbow.github.io/portfolio/media/posts/3//gallery/BallHopFINAL.gif\" data-size=\"1920x1080\"><img loading=\"lazy\" src=\"https://rocketbow.github.io/portfolio/media/posts/3//gallery/BallHopFINAL.gif\" alt=\"Ball Hop and Characterization\"></a>\n<figcaption>Ball Hop and Characterization</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://rocketbow.github.io/portfolio/media/posts/3//gallery/PantherFINAL.gif\" data-size=\"1920x1080\"><img loading=\"lazy\" src=\"https://rocketbow.github.io/portfolio/media/posts/3//gallery/PantherFINAL.gif\" alt=\"Pink Panther Walk\"></a>\n<figcaption>Pink Panther Walk</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://rocketbow.github.io/portfolio/media/posts/3//gallery/StanleySpin.gif\" data-size=\"1920x1080\"><img loading=\"lazy\" src=\"https://rocketbow.github.io/portfolio/media/posts/3//gallery/StanleySpin.gif\" alt=\"Character Bust Rotation\"></a>\n<figcaption>Character Bust Rotation</figcaption>\n</figure>\n</div></div>\n<h2>_____________________________________________________________</h2>\n<h2><span style=\"text-decoration: underline;\">2D Puppet Fundamentals:</span></h2>\n<div style=\"padding: 3% 0 0 0; position: relative;\"><div class=\"post__iframe\"><iframe loading=\"lazy\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\" src=\"https://player.vimeo.com/video/1169415331?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&dnt=1\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"Rigged2D_CharAnim&amp;Lipsync\" data-mce-fragment=\"1\"></iframe></div></div>\n<p>\n<script src=\"https://player.vimeo.com/api/player.js\"><div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"true\" data-translation=\"Add images\" data-mce-fragment=\"1\"><span id=\"mce_marker\" data-mce-type=\"bookmark\" data-mce-fragment=\"1\"></span><br data-mce-fragment=\"1\" /></div></div><div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"true\" data-translation=\"Add images\" data-mce-fragment=\"1\"><span id=\"mce_marker\" data-mce-type=\"bookmark\" data-mce-fragment=\"1\"></span><br data-mce-fragment=\"1\" /></div></div></script>\n</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"1\">\n<figure class=\"gallery__item\"><a href=\"https://rocketbow.github.io/portfolio/media/posts/3/gallery/PuppetRun.gif\" data-size=\"1920x1080\"><img loading=\"lazy\" src=\"https://rocketbow.github.io/portfolio/media/posts/3/gallery/PuppetRun.gif\" alt=\"Puppet Run\"></a>\n<figcaption>Puppet Run</figcaption>\n</figure>\n</div></div>",
+            "author": {
+                "name": "Lily Wing"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-02-23T18:34:24-05:00",
+            "date_modified": "2026-03-09T00:11:00-04:00"
+        },
+        {
+            "id": "https://rocketbow.github.io/portfolio/lily-wing-portfolio.html",
+            "url": "https://rocketbow.github.io/portfolio/lily-wing-portfolio.html",
+            "title": "LILY WING",
+            "summary": "Welcome to my Portfolio, I am an Animation Student from Seneca Polytechnic York who has an interest in Tradigital and Rigged Animation, as well&hellip;",
+            "content_html": "<p> </p>\n<p>Welcome to my Portfolio, I am an Animation Student from Seneca Polytechnic York who has an interest in Tradigital and Rigged Animation, as well as 3D Modelling and Rigging. <br><br>Please feel free to explore my work on this website, or find other art related posts on my instagram:<br><br><br></p>\n<p> </p>\n<p> </p>\n<p> </p>",
+            "image": "https://rocketbow.github.io/portfolio/media/posts/1/LogoBounce_fitted_v1.gif",
+            "author": {
+                "name": "Lily Wing"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-02-21T15:26:58-05:00",
+            "date_modified": "2026-03-02T21:43:48-05:00"
+        }
+    ]
+}
