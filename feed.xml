@@ -1,28 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Lily Wing Portfolio</title>
+    <title>Lily Wing</title>
     <link href="https://rocketbow.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://rocketbow.github.io/portfolio" />
-    <updated>2026-03-09T00:11:00-04:00</updated>
+    <updated>2026-03-09T01:18:59-04:00</updated>
     <author>
         <name>Lily Wing</name>
     </author>
     <id>https://rocketbow.github.io/portfolio</id>
 
     <entry>
-        <title>3D Modelling</title>
-        <author>
-            <name>Lily Wing</name>
-        </author>
-        <link href="https://rocketbow.github.io/portfolio/3d-modelling.html"/>
-        <id>https://rocketbow.github.io/portfolio/3d-modelling.html</id>
-
-        <updated>2026-03-03T18:47:29-05:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>2D Animation</title>
+        <title>2D ANIMATION</title>
         <author>
             <name>Lily Wing</name>
         </author>
@@ -32,13 +20,17 @@
         <updated>2026-02-23T18:34:24-05:00</updated>
             <summary type="html">
                 <![CDATA[
-                    Program Used: Toon Boom Harmony Tradigital Fundamentals: Ball Hop and Characterization Pink Panther Walk Character Bust Rotation _____________________________________________________________ 2D Puppet Fundamentals: Puppet Run
+                    Program Used: Toon Boom Harmony Tradigital Fundamentals: Puppet Run
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <figure class="post__image">Program Used:<br>Toon Boom Harmony<br><img loading="lazy"  src="https://rocketbow.github.io/portfolio/media/posts/3/ToonBoom.png" alt="" width="100" height="79" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://rocketbow.github.io/portfolio/media/posts/3/responsive/ToonBoom-xs.png 300w ,https://rocketbow.github.io/portfolio/media/posts/3/responsive/ToonBoom-sm.png 480w ,https://rocketbow.github.io/portfolio/media/posts/3/responsive/ToonBoom-md.png 768w ,https://rocketbow.github.io/portfolio/media/posts/3/responsive/ToonBoom-lg.png 1024w"></figure>
 <h2><span style="text-decoration: underline;">Tradigital Fundamentals: </span></h2>
+<div style="padding: 3% 0 0 0; position: relative;"><div class="post__iframe"><iframe loading="lazy" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://player.vimeo.com/video/1171647096?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&dnt=1" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" title="FloursackFINAL" data-mce-fragment="1"></iframe></div></div>
+<p>
+<script src="https://player.vimeo.com/api/player.js"></script>
+</p>
 <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="1">
 <figure class="gallery__item"><a href="https://rocketbow.github.io/portfolio/media/posts/3//gallery/BallHopFINAL.gif" data-size="1920x1080"><img loading="lazy" src="https://rocketbow.github.io/portfolio/media/posts/3//gallery/BallHopFINAL.gif" alt="Ball Hop and Characterization"></a>
 <figcaption>Ball Hop and Characterization</figcaption>
@@ -65,7 +57,7 @@
         </content>
     </entry>
     <entry>
-        <title>LILY WING</title>
+        <title>ABOUT</title>
         <author>
             <name>Lily Wing</name>
         </author>
